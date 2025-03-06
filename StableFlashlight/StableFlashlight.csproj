@@ -4,12 +4,8 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
     <LangVersion>11</LangVersion>
-    <PluginName>StableFlashlight</PluginName>
-    <AssemblyName>StableFlashlight</AssemblyName>
-  </PropertyGroup>
-  
-  <!-- Game References -->
-  <PropertyGroup>
+
+    <!-- Game References -->
     <EnableGameReferences>true</EnableGameReferences>
   </PropertyGroup>
   
